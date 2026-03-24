@@ -16,6 +16,8 @@ Day 2 — Tip Calculator
 
 Day 3 — Adventure Game  
 
+Day 4 - Rock Paper scissors game
+
 
 
 More coming soon 🚀
